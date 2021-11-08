@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/mini-tiki-upload/static/css/main.27f3a33c.chunk.css",
-    "main.js": "/mini-tiki-upload/static/js/main.64da1437.chunk.js",
-    "main.js.map": "/mini-tiki-upload/static/js/main.64da1437.chunk.js.map",
+    "main.js": "/mini-tiki-upload/static/js/main.6525b423.chunk.js",
+    "main.js.map": "/mini-tiki-upload/static/js/main.6525b423.chunk.js.map",
     "runtime-main.js": "/mini-tiki-upload/static/js/runtime-main.e330f8c0.js",
     "runtime-main.js.map": "/mini-tiki-upload/static/js/runtime-main.e330f8c0.js.map",
     "static/js/2.51d50179.chunk.js": "/mini-tiki-upload/static/js/2.51d50179.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.e330f8c0.js",
     "static/js/2.51d50179.chunk.js",
     "static/css/main.27f3a33c.chunk.css",
-    "static/js/main.64da1437.chunk.js"
+    "static/js/main.6525b423.chunk.js"
   ]
 }
