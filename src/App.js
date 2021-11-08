@@ -10,6 +10,7 @@ function App() {
           Edit <code>src/App.js</code> and save to reload by Ngoc Vinh99 .
         </p>
         <h2>Lionel Messi</h2>
+        <h2>PumSax</h2>
         <a
           className="App-link"
           href="https://reactjs.org"
