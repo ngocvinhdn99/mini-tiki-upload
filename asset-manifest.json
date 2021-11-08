@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mini-tiki-upload/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/mini-tiki-upload/static/js/main.17ea3611.chunk.js",
+    "main.js.map": "/mini-tiki-upload/static/js/main.17ea3611.chunk.js.map",
+    "runtime-main.js": "/mini-tiki-upload/static/js/runtime-main.c8a71654.js",
+    "runtime-main.js.map": "/mini-tiki-upload/static/js/runtime-main.c8a71654.js.map",
+    "static/js/2.936aa732.chunk.js": "/mini-tiki-upload/static/js/2.936aa732.chunk.js",
+    "static/js/2.936aa732.chunk.js.map": "/mini-tiki-upload/static/js/2.936aa732.chunk.js.map",
+    "static/js/3.ab8f0e14.chunk.js": "/mini-tiki-upload/static/js/3.ab8f0e14.chunk.js",
+    "static/js/3.ab8f0e14.chunk.js.map": "/mini-tiki-upload/static/js/3.ab8f0e14.chunk.js.map",
+    "index.html": "/mini-tiki-upload/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/mini-tiki-upload/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.936aa732.chunk.js.LICENSE.txt": "/mini-tiki-upload/static/js/2.936aa732.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/mini-tiki-upload/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8a71654.js",
+    "static/js/2.936aa732.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.17ea3611.chunk.js"
+  ]
+}
