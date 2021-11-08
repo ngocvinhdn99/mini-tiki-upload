@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/mini-tiki-upload/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/mini-tiki-upload/static/js/main.a2e08447.chunk.js",
-    "main.js.map": "/mini-tiki-upload/static/js/main.a2e08447.chunk.js.map",
-    "runtime-main.js": "/mini-tiki-upload/static/js/runtime-main.c8a71654.js",
-    "runtime-main.js.map": "/mini-tiki-upload/static/js/runtime-main.c8a71654.js.map",
-    "static/js/2.936aa732.chunk.js": "/mini-tiki-upload/static/js/2.936aa732.chunk.js",
-    "static/js/2.936aa732.chunk.js.map": "/mini-tiki-upload/static/js/2.936aa732.chunk.js.map",
-    "static/js/3.ab8f0e14.chunk.js": "/mini-tiki-upload/static/js/3.ab8f0e14.chunk.js",
-    "static/js/3.ab8f0e14.chunk.js.map": "/mini-tiki-upload/static/js/3.ab8f0e14.chunk.js.map",
+    "main.css": "/mini-tiki-upload/static/css/main.27f3a33c.chunk.css",
+    "main.js": "/mini-tiki-upload/static/js/main.18246a82.chunk.js",
+    "main.js.map": "/mini-tiki-upload/static/js/main.18246a82.chunk.js.map",
+    "runtime-main.js": "/mini-tiki-upload/static/js/runtime-main.e330f8c0.js",
+    "runtime-main.js.map": "/mini-tiki-upload/static/js/runtime-main.e330f8c0.js.map",
+    "static/js/2.8e5dd67b.chunk.js": "/mini-tiki-upload/static/js/2.8e5dd67b.chunk.js",
+    "static/js/2.8e5dd67b.chunk.js.map": "/mini-tiki-upload/static/js/2.8e5dd67b.chunk.js.map",
+    "static/js/3.9114ae7b.chunk.js": "/mini-tiki-upload/static/js/3.9114ae7b.chunk.js",
+    "static/js/3.9114ae7b.chunk.js.map": "/mini-tiki-upload/static/js/3.9114ae7b.chunk.js.map",
     "index.html": "/mini-tiki-upload/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/mini-tiki-upload/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.936aa732.chunk.js.LICENSE.txt": "/mini-tiki-upload/static/js/2.936aa732.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/mini-tiki-upload/static/media/logo.6ce24c58.svg"
+    "static/css/main.27f3a33c.chunk.css.map": "/mini-tiki-upload/static/css/main.27f3a33c.chunk.css.map",
+    "static/js/2.8e5dd67b.chunk.js.LICENSE.txt": "/mini-tiki-upload/static/js/2.8e5dd67b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c8a71654.js",
-    "static/js/2.936aa732.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.a2e08447.chunk.js"
+    "static/js/runtime-main.e330f8c0.js",
+    "static/js/2.8e5dd67b.chunk.js",
+    "static/css/main.27f3a33c.chunk.css",
+    "static/js/main.18246a82.chunk.js"
   ]
 }
